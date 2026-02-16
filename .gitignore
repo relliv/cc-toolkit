@@ -57,3 +57,7 @@ coverage/
 
 # Vitest
 vitest.config.ts.timestamp-*
+
+## ai
+prd.md
+plan.md
